@@ -6,7 +6,7 @@ import { useNavigate } from "react-router-dom";
 
 export default function AuthPage() {
   const loginImage = "https://sig1.co/img-twitter-1";
-  const url = 'https://4ddaf311-075a-43b6-a973-68c4f9683cf7-00-udyo542f7ipz.pike.repl.co'
+  const url = 'insert your replit api url'
 
   // Possible values: null (no modal shows), "Login", "SignUp"
   const [modalShow, setModalShow] = useState(null);
